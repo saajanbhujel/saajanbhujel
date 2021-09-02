@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Saajan Bhujel
-- 👨‍💻 I’m interested in bug bounty hunting and cyber security
+- 👩‍💻 I'm a bug boutny hunter and i like to secure web and apps.
+- 💻 I’m interested in bug bounty hunting and cyber security
 - 🌱 I’m currently learning B.com(prog)
 
 <!---
