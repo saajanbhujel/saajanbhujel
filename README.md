@@ -22,7 +22,7 @@
   <a href="https://bugcrowd.com/twentyminuten/hall-of-fame"><img height="170" width="170" src="/HOF/20minuten.jpg"></a>
   <a href="https://hackerone.com/nutanix/thanks?type=team"><img height="200" width="200" src="/HOF/nutanix.gif"></a>
   <a href="https://hackerone.com/nutanix/thanks?type=team"><img height="210" width="210" src="/HOF/crowdstrike2.jpg"></a>
-  <a href="https://hackerone.com/adobe/thanks?type=team"><img height="200" width="200" src="/HOF/adobe.png"></a>
+  <a href="https://hackerone.com/adobe/thanks?type=team"><img height="190" width="190" src="/HOF/adobe.png"></a>
   <a href="https://hackerone.com/peoplecert/thanks?type=team"><img height="170" width="170" src="/HOF/peoplecert.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://hackerone.com/upchieve?type=team"><img height="170" width="170" src="/HOF/upchieve.jpg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://hackerone.com/logitech?type=team"><img height="170" width="170" src="/HOF/logitech.png"></a>&nbsp;&nbsp;&nbsp;
