@@ -4,11 +4,11 @@
 - 🌱 I’m currently learning B.com(prog)
 
 <h5 align="center">
-  <code><a href="https://twitter.com/saajanbhujel11/" title="Twitter Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/twitter.svg" target="_blank"> Twitter</a></code>
-  <code><a href="https://www.linkedin.com/in/" title="LinkedIn Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/" title="Instagram Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/instagram.svg"> Instagram</a></code>
-  <code><a href="https://www.twitch.tv/"><img alt="Twitch" title="Twitch" height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/twitch.svg"> Twitch</a></code>
-  <code><a href="https://www.youtube.com/c/"><img alt="YouTube" title="YouTube" height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/youtube.svg"> YouTube</a></code>
+  <code><a href="https://hackerone.com/saajanbhujel?type=user" title="HackerOne Profile"><img height="23" width="23" src="/logo/hackerone.png"> HackerOne</a></code>
+  <code><a href="https://saajanbhujel11.medium.com/" title="Medium Blog"><img height="23" width="23" src="/logo/medium.png"> Medium</a></code>
+  <code><a href="https://bugcrowd.com/saajanbhujel11/" title="Bugcrowd Profile"><img height="23" width="23" src="/logo/bugcrowd.png"> Bugcrowd</a></code>
+  <code><a href="https://twitter.com/saajanbhujel11/" title="Twitter Profile"><img height="23" width="23" src="/logo/twitter.png" target="_blank"> Twitter</a></code>
+  <code><a href="https://www.linkedin.com/in/" title="LinkedIn Profile"><img height="23" width="23" src="/logo/linkedin.png"> LinkedIn</a></code>
 </h5>
 <br>
 
