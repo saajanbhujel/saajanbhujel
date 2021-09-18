@@ -20,7 +20,7 @@
   <a href="https://hackerone.com/oppo/thanks?type=team"><img height="200" width="200" src="/HOF/oppo.png"></a>
   <a href="https://bugcrowd.com/twentyminuten/hall-of-fame"><img height="170" width="170" src="/HOF/20minuten.jpg"></a>
   <a href="https://hackerone.com/nutanix/thanks?type=team"><img height="200" width="200" src="/HOF/nutanix.gif"></a>
-  <a href="https://hackerone.com/nutanix/thanks?type=team"><img height="200" width="200" src="/HOF/crowdstrike1.jpg"></a>
+  <a href="https://hackerone.com/nutanix/thanks?type=team"><img height="210" width="210" src="/HOF/crowdstrike2.jpg"></a>
 </section>
 <br>
 
