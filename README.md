@@ -14,7 +14,7 @@
 <h1 align="center">
   <code>Hall Of Fames</code>
 </h1>
-<section align="center">
+<section align="center" margin="auto">
   <a href="https://hackerone.com/att/thanks?type=team"><img height="200" width="200" src="/HOF/att.jpg"></a>
   <a href="https://bugcrowd.com/comcastvdp/hall-of-fame"><img height="200" width="200" src="/HOF/comcast.png"></a>
   <a href="https://hackerone.com/pubg/thanks?type=team"><img height="200" width="200" src="/HOF/pubg.png"></a>
