@@ -29,7 +29,7 @@
   <a href="https://hackerone.com/logitech?type=team"><img height="170" width="170" src="/HOF/logitech.png"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://hackerone.com/deptofdefense/thanks?type=team"><img height="200" width="200" src="/HOF/dod.png"></a>
   <a href="https://app.intigriti.com/researcher/programs/vrtnv/vrt/leaderboard?alltime=true&severity=1"><img height="190" width="190" src="/HOF/vrt.svg"></a>
-  <a href="https://hackerone.com/tennessee-valley-authority/thanks?type=team"><img height="200" width="200" src="/HOF/TVA.png"></a>
+  <a href="https://hackerone.com/tennessee-valley-authority/thanks?type=team"><img height="180" width="180" src="/HOF/TVA.png"></a>
 </section>
 
 <!---
