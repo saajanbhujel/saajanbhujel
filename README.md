@@ -7,7 +7,7 @@
 <h5 align="center">
   <code><a href="https://hackerone.com/saajanbhujel?type=user" title="HackerOne Profile"><img height="23" width="23" src="/logo/hackerone.png"> HackerOne</a></code>
   <code><a href="https://saajanbhujel11.medium.com/" title="Medium Blog"><img height="23" width="23" src="/logo/medium.png"> Medium</a></code>
-  <code><a href="https://bugcrowd.com/saajanbhujel11/" title="Bugcrowd Profile"><img height="23" width="23" src="/logo/bugcrowd.png"> Bugcrowd</a></code>
+  <code><a href="https://bugcrowd.com/saajanbhujel11/" title="Bugcrowd Profile"><img height="26" width="26" src="/logo/bugcrowd.png"> Bugcrowd</a></code>
   <code><a href="https://twitter.com/saajanbhujel11/" title="Twitter Profile"><img height="23" width="23" src="/logo/twitter.png" target="_blank"> Twitter</a></code>
   <code><a href="https://app.intigriti.com/researcher/profile/saajanbhujel11" title="Intigriti Profile"><img height="28" width="28" src="/logo/intigriti.jpg" target="_blank"> Intigriti</a></code>
   <code><a href="https://www.linkedin.com/in/" title="LinkedIn Profile"><img height="23" width="23" src="/logo/linkedin.png"> LinkedIn</a></code>
