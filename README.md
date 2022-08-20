@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Saajan Bhujel
-- 🐱‍💻 I'm a bug bounty hunter and I like to secure web and apps
-- 💻 I’m interested in bug bounty hunting and cyber security
-- 🌱 I’m currently learning B.com(prog)
-- ✏️ And, I know the basics of HTML, JavaScript and Python 
+- 👋 Hi, I’m Saajan Bhujel.
+- 🐱‍💻 I'm a bug bounty hunter and I like to secure web and apps.
+- 💻 I’m interested in bug bounty hunting and cyber security.
+- 🌱 I’m currently learning B.com(prog).
+- ✏️ And, I know the basics of HTML, JavaScript and Python.
 
 <h5 align="center">
   <code><a href="https://hackerone.com/saajanbhujel?type=user" title="HackerOne Profile"><img height="23" width="23" src="/logo/hackerone.png"> HackerOne</a></code>
