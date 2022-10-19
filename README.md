@@ -2,7 +2,7 @@ Hi there👋,
 - 😎 I’m Saajan Bhujel.
 - 🤖 I'm a bug bounty hunter and I like to secure web and apps.
 - 💻 I’m interested in bug bounty hunting and cyber security.
-- 🌱 I’m currently learning B.com(prog).
+- 🌱 I completed my graduation in B.com(prog).
 - ✏️ And, I know the basics of HTML, JavaScript and Python.
 
 <h5 align="center">
