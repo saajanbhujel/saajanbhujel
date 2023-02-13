@@ -31,20 +31,20 @@ Contact email:- saajanbhujel@wearehackerone.com
 <br>
 
 <section align="center">
-  <a href="https://hackerone.com/adobe/thanks?type=team"><img height="100" width="100" src="/HOF/adobe.png"></a>
-  <a href="https://hackerone.com/att/thanks?type=team"><img height="100" width="100" src="/HOF/att.jpg"></a>
-  <a href="https://bugcrowd.com/comcastvdp/hall-of-fame"><img height="100" width="100" src="/HOF/comcast.png"></a>
-  <a href="https://hackerone.com/nutanix/thanks?type=team"><img height="100" width="100" src="/HOF/crowdstrike2.jpg"></a>
-  <a href="https://hackerone.com/deptofdefense/thanks?type=team"><img height="100" width="100" src="/HOF/dod.png"></a>
-  <a href="https://hackerone.com/logitech?type=team"><img height="100" width="100" src="/HOF/logitech.png"></a>
-  <a href="https://hackerone.com/nutanix/thanks?type=team"><img height="100" width="100" src="/HOF/nutanix.gif"></a>
-  <a href="https://hackerone.com/oppo/thanks?type=team"><img height="100" width="100" src="/HOF/oppo.png"></a>
-  <a href="https://hackerone.com/pubg/thanks?type=team"><img height="100" width="100" src="/HOF/pubg.png"></a>
-  <a href="https://hackerone.com/peoplecert/thanks?type=team"><img height="100" width="100" src="/HOF/peoplecert.png"></a>
-  <a href="https://hackerone.com/upchieve?type=team"><img height="100" width="100" src="/HOF/upchieve.jpg"></a>
-  <a href="https://app.intigriti.com/researcher/programs/vrtnv/vrt/leaderboard?alltime=true&severity=1"><img height="100" width="100" src="/HOF/vrt.svg"></a>
-  <a href="https://hackerone.com/tennessee-valley-authority/thanks?type=team"><img height="100" width="100" src="/HOF/TVA.png"></a>
-  <a href="https://bugcrowd.com/twentyminuten/hall-of-fame"><img height="100" width="100" src="/HOF/20minuten.jpg"></a>
+  <a href="https://hackerone.com/adobe/thanks?type=team"><img height="80" width="80" src="/HOF/adobe.png"></a>
+  <a href="https://hackerone.com/att/thanks?type=team"><img height="80" width="80" src="/HOF/att.jpg"></a>
+  <a href="https://bugcrowd.com/comcastvdp/hall-of-fame"><img height="80" width="80" src="/HOF/comcast.png"></a>
+  <a href="https://hackerone.com/nutanix/thanks?type=team"><img height="80" width="80" src="/HOF/crowdstrike2.jpg"></a>
+  <a href="https://hackerone.com/deptofdefense/thanks?type=team"><img height="80" width="80" src="/HOF/dod.png"></a>
+  <a href="https://hackerone.com/logitech?type=team"><img height="80" width="80" src="/HOF/logitech.png"></a>
+  <a href="https://hackerone.com/nutanix/thanks?type=team"><img height="80" width="80" src="/HOF/nutanix.gif"></a>
+  <a href="https://hackerone.com/oppo/thanks?type=team"><img height="80" width="80" src="/HOF/oppo.png"></a>
+  <a href="https://hackerone.com/pubg/thanks?type=team"><img height="80" width="80" src="/HOF/pubg.png"></a>
+  <a href="https://hackerone.com/peoplecert/thanks?type=team"><img height="80" width="80" src="/HOF/peoplecert.png"></a>
+  <a href="https://hackerone.com/upchieve?type=team"><img height="80" width="80" src="/HOF/upchieve.jpg"></a>
+  <a href="https://app.intigriti.com/researcher/programs/vrtnv/vrt/leaderboard?alltime=true&severity=1"><img height="80" width="80" src="/HOF/vrt.svg"></a>
+  <a href="https://hackerone.com/tennessee-valley-authority/thanks?type=team"><img height="80" width="80" src="/HOF/TVA.png"></a>
+  <a href="https://bugcrowd.com/twentyminuten/hall-of-fame"><img height="80" width="80" src="/HOF/20minuten.jpg"></a>
 </section>
 
 <div align="center"> 
