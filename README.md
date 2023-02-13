@@ -34,7 +34,7 @@ Contact email:- saajanbhujel@wearehackerone.com
   <a href="https://hackerone.com/adobe/thanks?type=team"><img height="66" width="66" src="/HOF/adobe.png"></a>
   <a href="https://hackerone.com/att/thanks?type=team"><img height="66" width="66" src="/HOF/att.jpg"></a>
   <a href="https://bugcrowd.com/comcastvdp/hall-of-fame"><img height="66" width="66" src="/HOF/comcast.png"></a>
-  <a href="https://hackerone.com/nutanix/thanks?type=team"><img height="66" width="66" src="/HOF/crowdstrike2.jpg"></a>
+  <a href="https://hackerone.com/crowdstrike/thanks?type=team"><img height="66" width="66" src="/HOF/crowdstrike.jpg"></a>
   <a href="https://hackerone.com/deptofdefense/thanks?type=team"><img height="66" width="66" src="/HOF/dod.png"></a>
   <a href="https://hackerone.com/logitech?type=team"><img height="66" width="66" src="/HOF/logitech.png"></a>
   <a href="https://hackerone.com/nutanix/thanks?type=team"><img height="66" width="66" src="/HOF/nutanix.gif"></a>
