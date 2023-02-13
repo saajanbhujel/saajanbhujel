@@ -31,10 +31,10 @@ Contact email:- saajanbhujel@wearehackerone.com
 <br>
 
 <section align="center">
-  <a href="https://hackerone.com/adobe/thanks?type=team"><img height="70" width="70" src="/HOF/adobe.png"></a>
-  <a href="https://hackerone.com/att/thanks?type=team"><img height="70" width="70" src="/HOF/att.jpg"></a>
-  <a href="https://bugcrowd.com/comcastvdp/hall-of-fame"><img height="70" width="70" src="/HOF/comcast.png"></a>
-  <a href="https://hackerone.com/nutanix/thanks?type=team"><img height="70" width="70" src="/HOF/crowdstrike2.jpg"></a>
+  <a href="https://hackerone.com/adobe/thanks?type=team"><img height="69" width="69" src="/HOF/adobe.png"></a>
+  <a href="https://hackerone.com/att/thanks?type=team"><img height="69" width="69" src="/HOF/att.jpg"></a>
+  <a href="https://bugcrowd.com/comcastvdp/hall-of-fame"><img height="69" width="69" src="/HOF/comcast.png"></a>
+  <a href="https://hackerone.com/nutanix/thanks?type=team"><img height="69" width="69" src="/HOF/crowdstrike2.jpg"></a>
   <a href="https://hackerone.com/deptofdefense/thanks?type=team"><img height="80" width="80" src="/HOF/dod.png"></a>
   <a href="https://hackerone.com/logitech?type=team"><img height="80" width="80" src="/HOF/logitech.png"></a>
   <a href="https://hackerone.com/nutanix/thanks?type=team"><img height="80" width="80" src="/HOF/nutanix.gif"></a>
