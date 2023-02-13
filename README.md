@@ -20,14 +20,16 @@ Contact email:- saajanbhujel@wearehackerone.com
   <a href="https://twitter.com/saajanbhujel11/" title="Twitter Profile"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white"></a>
   <a href="https://saajanbhujel.medium.com/" title="Medium Blog"><img src="https://img.shields.io/badge/Medium-12100E?logo=Medium&logoColor=white"></a>
+</div>
 
-<h1 align="center">
-  Hall Of Fames:
-</h1>
-<small>Secured more than 30+ programs</small>
-<!--<h3 align="center">
+<div align="center">
+  <h2 align="center">
+    Hall Of Fames:
+  </h2>
   <code>Secured more than 30+ programs</code>
-</h3>-->
+</div>
+<br>
+
 <section align="center">
   <a href="https://hackerone.com/adobe/thanks?type=team"><img height="100" width="100" src="/HOF/adobe.png"></a>
   <a href="https://hackerone.com/att/thanks?type=team"><img height="100" width="100" src="/HOF/att.jpg"></a>
@@ -45,10 +47,7 @@ Contact email:- saajanbhujel@wearehackerone.com
   <a href="https://bugcrowd.com/twentyminuten/hall-of-fame"><img height="100" width="100" src="/HOF/20minuten.jpg"></a>
 </section>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aaaaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aaaaa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aaaaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Quote Of The Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center"> 
+  <h2>✍️ Quote Of The Day</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</div>
