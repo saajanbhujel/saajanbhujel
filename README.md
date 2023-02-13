@@ -16,8 +16,8 @@ Contact email:- saajanbhujel@wearehackerone.com
   <h2>🌐 Socials:</h2>
   <a href="https://hackerone.com/saajanbhujel" title="HackerOne Profile"><img src="https://img.shields.io/badge/HackerOne-%23000000.svg?logo=Hackerone&logoColor=white"></a>
   <a href="https://bugcrowd.com/saajanbhujel/" title="Bugcrowd Profile"><img src="https://img.shields.io/badge/Bugcrowd-%23FF6900.svg?logo=Bugcrowd&logoColor=white"></a>
-  <a href="https://app.intigriti.com/researcher/profile/saajanbhujel11" title="Intigriti Profile" target="_blank"><img src="https://img.shields.io/badge/Intigriti-%234C59A8.svg?logo=Intigriti&logoColor=white"></a>
-  <a href="https://twitter.com/saajanbhujel/" title="Twitter Profile"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" target="_blank"></a>
+  <a href="https://app.intigriti.com/researcher/profile/saajanbhujel11" title="Intigriti Profile"><img src="https://img.shields.io/badge/Intigriti-%234C59A8.svg?logo=Intigriti&logoColor=white"></a>
+  <a href="https://twitter.com/saajanbhujel/" title="Twitter Profile"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/saajanbhujel/" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white"></a>
   <a href="https://saajanbhujel.medium.com/" title="Medium Blog"><img src="https://img.shields.io/badge/Medium-12100E?logo=Medium&logoColor=white"></a>
 </div>
@@ -48,6 +48,6 @@ Contact email:- saajanbhujel@wearehackerone.com
 </section>
 
 <div align="center"> 
-  <h2>✍️ Quote Of The Day</h3>
+  <h2>✍️ Quote Of The Day:</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </div>
