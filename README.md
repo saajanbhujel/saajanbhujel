@@ -12,7 +12,7 @@ Want to read my blogs:- Then use any of the below sites,
 
 Contact email:- saajanbhujel@wearehackerone.com
 
-![](https://komarev.com/ghpvc/?username=saajanbhujel)
+![](https://komarev.com/ghpvc/?username=saajanbhujel&style=for-the-badge)
 
 <div align="center">
   <h2>🌐 Socials:</h2>
