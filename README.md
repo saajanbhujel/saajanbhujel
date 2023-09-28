@@ -12,6 +12,8 @@ Want to read my blogs:- Then use any of the below sites,
 
 Contact email:- saajanbhujel@wearehackerone.com
 
+![](https://komarev.com/ghpvc/?username=saajanbhujel)
+
 <div align="center">
   <h2>🌐 Socials:</h2>
   <a href="https://hackerone.com/saajanbhujel" title="HackerOne Profile"><img src="https://img.shields.io/badge/HackerOne-%23000000.svg?logo=Hackerone&logoColor=white"></a>
