@@ -28,7 +28,7 @@ Contact email:- saajanbhujel@wearehackerone.com
   <h2 align="center">
     Hall Of Fames:
   </h2>
-  <code>Secured more than 30+ programs</code>
+  <code>Secured more than 40+ programs</code>
 </div>
 <br>
 
